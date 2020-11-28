@@ -11,6 +11,7 @@ sections:
       - label: Contact Us
         url: /contact
         style: primary
+        new_window: true
     align: left
     image: images/download (1).jpg
     image_position: right
