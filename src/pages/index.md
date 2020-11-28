@@ -12,6 +12,11 @@ sections:
         url: /contact
         style: primary
         new_window: true
+      - label: lorem-ipsum
+        url: lorem-ipsum
+        style: link
+        new_window: false
+        type: action
     align: left
     image: images/download (1).jpg
     image_position: right
