@@ -8,7 +8,7 @@ sections:
       - label: Label
         url: /features
         style: primary
-      - label: 'COtnact '
+      - label: COtnact Us
         url: /contact
         style: secondary
     align: left
