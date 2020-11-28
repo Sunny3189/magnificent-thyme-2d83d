@@ -8,7 +8,7 @@ sections:
       - label: Label
         url: /features
         style: primary
-      - label: Contact Us
+      - label: ''
         url: /contact
         style: secondary
     align: left
