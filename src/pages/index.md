@@ -10,7 +10,7 @@ sections:
         style: primary
       - label: Contact Us
         url: /contact
-        style: secondary
+        style: primary
     align: left
     image: images/download (1).jpg
     image_position: right
