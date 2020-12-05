@@ -42,10 +42,7 @@ sections:
             url: /features
             style: secondary
       - title: Offers
-        content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
+        content: '  **Heritage of India grocery store is in the grocery store industry to establish a specialty Indian grocery store and we will ensure we make available a wide range of goods and products from top manufacturing brands.**'
         align: left
         image: images/feature.svg
         image_position: left
