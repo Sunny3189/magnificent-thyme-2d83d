@@ -28,7 +28,7 @@ sections:
       background_image_size: contain
       background_image_repeat: repeat
   - type: features_section
-    title: Features
+    title: Value proposition
     features:
       - title: Feature 1
         content: >-
