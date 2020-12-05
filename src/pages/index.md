@@ -20,7 +20,7 @@ sections:
     align: left
     image: images/download (1).jpg
     image_position: right
-    has_background: false
+    has_background: true
     background:
       background_color: blue
       background_image: images/download.jpg
