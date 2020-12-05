@@ -31,10 +31,9 @@ sections:
     title: Value Proposition
     features:
       - title: Online Delivery
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+        content: >
+          Best Indian regional products easily available at fair price on your
+          doorsteps.
         align: left
         image: images/feature.svg
         image_position: right
