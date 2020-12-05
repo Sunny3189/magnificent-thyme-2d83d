@@ -35,7 +35,7 @@ sections:
           Best Indian regional products easily available at fair price on your
           doorsteps.
         align: left
-        image: images/feature.svg
+        image: images/mehrad-vosoughi-yOMsDjT7DUg-unsplash-1-scaled.jpg
         image_position: right
         actions:
           - label: Learn More
