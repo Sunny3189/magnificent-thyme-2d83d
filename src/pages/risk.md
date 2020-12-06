@@ -1,5 +1,5 @@
 ---
-title: Risk
+title: Risks
 excerpt: lorem-ipsum
 template: page
 ---
