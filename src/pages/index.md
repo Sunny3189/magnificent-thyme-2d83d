@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: Heritage of India
-    subtitle: Taste the spices of home away from hom
+    subtitle: Taste the spices of home away from home
     actions:
       - label: Learn More
         url: /features
