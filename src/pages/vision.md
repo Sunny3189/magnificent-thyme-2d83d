@@ -3,7 +3,4 @@ title: Vision
 excerpt: lorem-ipsum
 template: page
 ---
-## Lorem ipsum
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-- Lorem ipsum
-- dolor sit amet
+Our vision is to bring the best Indian inspired ingredients from Indian Kitchens, right to your doorstep and provide International students feel like home in Sault Ste. Marie.
