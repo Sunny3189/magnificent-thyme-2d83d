@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsumVi
+title: Vision
 excerpt: lorem-ipsum
 template: page
 ---
