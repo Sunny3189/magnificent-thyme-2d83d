@@ -1,6 +1,6 @@
 ---
 title: Indian Regional Spices
-date: '2020-12-02'
+date: '2020-12-06'
 author: src/data/team/gordon-norman.yaml
 categories:
   - src/data/categories/tutorials.yaml
