@@ -10,7 +10,7 @@ tags:
 image: images/1.jpg
 excerpt: >-
   We Provide taste of Indian spices, from North to South, from East to West. We
-  provide all the spices of regional India from online and   
+  provide all the spices of regional India   
 template: post
 ---
 
