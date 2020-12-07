@@ -9,10 +9,7 @@ tags:
   - JAMstack
   - Sourcebit
 image: images/UTB8rJs4xSnEXKJk43Ubq6zLppXaE.jpg_350x350.jpg
-excerpt: >-
-  Itaque hoc frequenter dici solet a vobis, non intellegere nos, quam dicat
-  Epicurus voluptatem. Sin kakan malitiam dixisses, ad aliud nos unum certum
-  vitium consuetudo Latina traduceret.
+excerpt: 'we provide Ready to eat '
 template: post
 ---
 
