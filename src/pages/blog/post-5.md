@@ -8,7 +8,7 @@ tags:
   - Stackbit
   - Netlify
 image: images/1.jpg
-excerpt: We Provide all kind of the spice
+excerpt: We Provide taste of Indian spices
 template: post
 ---
 
