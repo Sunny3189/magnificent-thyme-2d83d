@@ -71,6 +71,11 @@ sections:
           - label: Learn More
             url: /features
             style: secondary
+          - label: lorem-ipsum
+            url: lorem-ipsum
+            style: link
+            new_window: false
+            type: action
   - type: blog_feed_section
     title: What We Offer
     show_recent: true
