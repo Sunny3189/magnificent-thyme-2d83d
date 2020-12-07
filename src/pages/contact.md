@@ -21,5 +21,6 @@ sections:
         new_window: false
         type: action
   - type: contact_section
+  - type: contact_section
 template: advanced
 ---
