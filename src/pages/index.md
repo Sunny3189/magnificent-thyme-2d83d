@@ -11,7 +11,7 @@ sections:
       - label: Contact Us
         url: /contact
         style: primary
-        new_window: true
+        new_window: false
       - label: lorem-ipsum
         url: lorem-ipsum
         style: link
