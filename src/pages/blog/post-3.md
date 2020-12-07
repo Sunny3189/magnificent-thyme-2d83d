@@ -10,7 +10,7 @@ tags:
 image: images/3.png
 excerpt: >-
   Indian traditional dresses for men and women. Regional wise dress ranges,
-  Kurta Payjama, Sarees, Suit Salwar, Dhoti, turbans.
+  Kurta Payjama, Sarees, Suit Salwar, Dhoti, turbans. 
 template: post
 ---
 
