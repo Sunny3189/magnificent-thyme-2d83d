@@ -65,7 +65,7 @@ sections:
 
           *  Wide range of traditional and western clothing.
         align: left
-        image: images/feature.svg
+        image: images/5cce31c3c20f0f4fa192572d652107f0f6404ffe.jpeg
         image_position: right
         actions:
           - label: Learn More
