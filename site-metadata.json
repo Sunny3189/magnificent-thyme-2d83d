@@ -41,7 +41,7 @@
                 "type": "action"
             },
             {
-                "label": "new2",
+                "label": "GitHub",
                 "url": "lorem-ipsum",
                 "style": "link",
                 "new_window": false,
