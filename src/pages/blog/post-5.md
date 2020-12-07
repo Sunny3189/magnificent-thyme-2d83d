@@ -8,7 +8,7 @@ tags:
   - Stackbit
   - Netlify
 image: images/1.jpg
-excerpt: 'We Provide taste of Indian spices, from North to south, from east to west.  '
+excerpt: 'We Provide taste of Indian spices, from North to South, from east to west.  '
 template: post
 ---
 
