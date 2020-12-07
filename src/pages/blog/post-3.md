@@ -8,7 +8,7 @@ tags:
   - Stackbit
   - JAMstack
 image: images/3.png
-excerpt: Indian traditional dresses for men and women
+excerpt: 'Indian traditional dresses for men and women. '
 template: post
 ---
 
