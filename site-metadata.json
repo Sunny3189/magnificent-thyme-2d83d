@@ -46,7 +46,7 @@
                 "type": "action"
             },
             {
-                "label": "lorem-ipsum",
+                "label": "new2",
                 "url": "lorem-ipsum",
                 "style": "link",
                 "new_window": false,
