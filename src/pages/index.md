@@ -74,9 +74,7 @@ sections:
     recent_count: 3
   - type: cta_section
     title: Indian Music
-    subtitle: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus.
+    subtitle: Devotional
     actions:
       - label: Learn More
         url: /features
