@@ -1,6 +1,6 @@
 ---
 title: Frozen Indian Food.
-date: '2020-05-30'
+date: '2020-12-30'
 categories:
   - src/data/categories/tutorials.yaml
 tags:
