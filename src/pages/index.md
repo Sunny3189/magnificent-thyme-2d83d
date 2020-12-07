@@ -74,7 +74,7 @@ sections:
     recent_count: 3
   - type: cta_section
     title: Indian Music
-    subtitle: 'Devotional and Bollywood Music. '
+    subtitle: Devotional and Bollywood Music CD's Available here.
     actions:
       - label: Learn More
         url: /features
