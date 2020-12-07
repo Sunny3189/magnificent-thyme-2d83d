@@ -34,16 +34,16 @@
                 "type": "action"
             },
             {
-                "label": "Contact Us",
-                "url": "/contact",
-                "style": "primary"
-            },
-            {
                 "label": "New1",
                 "url": "lorem-ipsum",
                 "style": "link",
                 "new_window": false,
                 "type": "action"
+            },
+            {
+                "label": "Contact Us",
+                "url": "/contact",
+                "style": "primary"
             },
             {
                 "label": "new2",
