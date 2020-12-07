@@ -5,9 +5,6 @@ sections:
     title: Heritage of India
     subtitle: Taste the spices of home away from home
     actions:
-      - label: Learn More
-        url: /features
-        style: primary
       - label: Contact Us
         url: /contact
         style: primary
