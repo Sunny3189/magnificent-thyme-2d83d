@@ -7,7 +7,7 @@ tags:
   - JAMstack
   - Sourcebit
 image: images/UTB8rJs4xSnEXKJk43Ubq6zLppXaE.jpg_350x350.jpg
-excerpt: 'we provide Ready to eat Dal, Roti,  Paratha'
+excerpt: 'we provide Ready to eat Dal, Roti,  Paratha, '
 template: post
 ---
 
