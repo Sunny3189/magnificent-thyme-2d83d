@@ -8,9 +8,7 @@ tags:
   - Stackbit
   - JAMstack
 image: images/download (3).jpg
-excerpt: >-
-  Indian traditional dresses for men and women. Regional wise dress ranges,
-  Kurta Payjama, Sarees, Suit Salwar, Dhoti, turbans. 
+excerpt: ''
 template: post
 ---
 
