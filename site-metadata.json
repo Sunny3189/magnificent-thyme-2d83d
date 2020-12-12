@@ -48,7 +48,7 @@
     "title": "Strategies",
     "header": {
         "title": "lorem-ipsum",
-        "has_nav": false,
+        "has_nav": true,
         "nav_links": [],
         "type": "header"
     }
