@@ -45,11 +45,5 @@
             }
         ]
     },
-    "title": "Strategies",
-    "header": {
-        "title": "StarterAA",
-        "has_nav": true,
-        "nav_links": [],
-        "type": "header"
-    }
+    "title": "Strategies"
 }
