@@ -45,5 +45,11 @@
             }
         ]
     },
-    "title": "Strategies"
+    "title": "Strategies",
+    "header": {
+        "title": "lorem-ipsum",
+        "has_nav": true,
+        "nav_links": [],
+        "type": "header"
+    }
 }
