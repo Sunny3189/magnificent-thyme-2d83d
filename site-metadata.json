@@ -1,59 +1,5 @@
 {
     "description": "An ultra customizable generic theme for Stackbit",
-    "header": {
-        "title": "Starter",
-        "has_nav": true,
-        "nav_links": [
-            {
-                "label": "Home",
-                "url": "https://app.stackbit.com/studio/5fc2d83d1f62660016dba62e",
-                "style": "link"
-            },
-            {
-                "label": "Vision",
-                "url": "https://app.stackbit.com/studio/5fc2d83d1f62660016dba62e#/vision",
-                "style": "link",
-                "new_window": false
-            },
-            {
-                "label": "Strategies",
-                "url": "https://app.stackbit.com/studio/5fc2d83d1f62660016dba62e#/strategies",
-                "style": "link",
-                "new_window": false
-            },
-            {
-                "label": "Risk",
-                "url": "https://app.stackbit.com/studio/5fc2d83d1f62660016dba62e#/risk",
-                "style": "link"
-            },
-            {
-                "label": "Marketing",
-                "url": "lorem-ipsum",
-                "style": "link",
-                "new_window": false,
-                "type": "action"
-            },
-            {
-                "label": "Finance",
-                "url": "lorem-ipsum",
-                "style": "link",
-                "new_window": false,
-                "type": "action"
-            },
-            {
-                "label": "GitHub",
-                "url": "https://github.com/stackbit-projects/magnificent-thyme-2d83d",
-                "style": "link",
-                "new_window": false,
-                "type": "action"
-            },
-            {
-                "label": "Contact Us",
-                "url": "/contact",
-                "style": "primary"
-            }
-        ]
-    },
     "footer": {
         "has_nav": true,
         "nav_links": [
